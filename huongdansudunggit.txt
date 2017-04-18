@@ -11,12 +11,12 @@ git commit -m "Add new file inial.txt"
 git push
 
 /* bo qua add co the commit truc tiep command */
-git commit -a -m"Adding something"
+git commit -a -m "Adding something"
 
 /* lay file tai mot thoi diem trong qua khu  ^_C: stop, ESC :q */
 git log
 git revert /*idCommit*/
 git push
-/* update */
+/* update tren github */
 git pull
 
