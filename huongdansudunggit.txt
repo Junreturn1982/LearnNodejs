@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=DExk4RUn8Y4&list=PLzrVYRai0riRQ86SnX-F4RErGz9hgfRtj&index=2
 Tao New repository -> lay dia chi https:// -> clone ve may -> vao thu muc chua file .git
 /* use git scm */
 git clone https://github.com/Junreturn1982/xedien.git 
