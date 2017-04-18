@@ -1,0 +1,4 @@
+/*=== day 01 ===*/
+variable: var, let
+constant: const (cannot assign)
+
