@@ -1,11 +1,13 @@
 Tao New repository -> lay dia chi https:// -> clone ve may -> vao thu muc chua file .git
-1. git scm
+/* use git scm */
 git clone https://github.com/Junreturn1982/xedien.git 
 /* vao thu muc vua clone co file .git -> open git bash */
+// xem trang thai
 git status
+// add, update changes
 git add *
 /* local */
-=> git config --global user.email "you@example.com"
+/* => git config --global user.email "you@example.com" */
 git commit -m "Add new file inial.txt"
 /* serialization -> github */
 git push
@@ -14,8 +16,11 @@ git push
 git commit -a -m "Adding something"
 
 /* lay file tai mot thoi diem trong qua khu  ^_C: stop, ESC :q */
+// xem log
 git log
+// revert idcommit
 git revert /*idCommit*/
+// dua len github
 git push
 /* update tren github */
 git pull
