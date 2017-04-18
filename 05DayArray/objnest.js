@@ -6,3 +6,4 @@ function Person(name,age,cash){
  }
 }
 
+// comment thoi
