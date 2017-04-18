@@ -8,12 +8,12 @@ git status
 git add *
 /* local */
 /* => git config --global user.email "you@example.com" */
-git commit -m "Add new file inial.txt"
+git commit -m "comment here"
 /* serialization -> github */
 git push
 
 /* bo qua add co the commit truc tiep command */
-git commit -a -m "Adding something"
+git commit -a -m "comment here"
 
 /* lay file tai mot thoi diem trong qua khu  ^_C: stop, ESC :q */
 // xem log
