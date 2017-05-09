@@ -5,7 +5,7 @@ git clone https://github.com/Junreturn1982/xedien.git
 /* vao thu muc vua clone co file .git -> open git bash */
 // xem trang thai
 git status
-// add, update changes
+// add, update changes or git add .
 git add *
 /* local */
 /* => git config --global user.email "you@example.com" */
@@ -21,8 +21,12 @@ git commit -a -m "comment here"
 git log
 // revert idcommit
 git revert /*idCommit*/
+git checkout /*idCommit*/
 // dua len github
 git push
 /* update tren github */
 git pull
+
+// tao file, folder
+touch .gitignore
 
